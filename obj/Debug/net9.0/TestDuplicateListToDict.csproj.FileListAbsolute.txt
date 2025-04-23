@@ -1,0 +1,14 @@
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\bin\Debug\net9.0\TestDuplicateListToDict.exe
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\bin\Debug\net9.0\TestDuplicateListToDict.deps.json
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\bin\Debug\net9.0\TestDuplicateListToDict.runtimeconfig.json
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\bin\Debug\net9.0\TestDuplicateListToDict.dll
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\bin\Debug\net9.0\TestDuplicateListToDict.pdb
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.GeneratedMSBuildEditorConfig.editorconfig
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.AssemblyInfoInputs.cache
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.AssemblyInfo.cs
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.csproj.CoreCompileInputs.cache
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.dll
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\refint\TestDuplicateListToDict.dll
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.pdb
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\TestDuplicateListToDict.genruntimeconfig.cache
+D:\ntech\import-file-excel-test\TestDuplicateListToDict\obj\Debug\net9.0\ref\TestDuplicateListToDict.dll
