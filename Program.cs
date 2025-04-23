@@ -1,4 +1,4 @@
-﻿var queue = new BlockingQueue();
+﻿var queue = new BlockingQueue<string>();
 var t1 = new Thread(DeQueueThread) { IsBackground = true };
 t1.Start();
 

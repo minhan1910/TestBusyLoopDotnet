@@ -1,8 +1,8 @@
-class BlockingQueue
+class BlockingQueue<T>
 {
-    private readonly List<string> _queue = [];
+    private readonly List<T> _queue = [];
 
-    public void Enqueue(string item)
+    public void Enqueue(T item)
     {
         _queue.Add(item);            
     }
@@ -12,7 +12,7 @@ class BlockingQueue
         return _queue.Count == 0;
     }
 
-    public string Dequeue()
+    public T Dequeue()
     {
 
         var item = _queue[0];
