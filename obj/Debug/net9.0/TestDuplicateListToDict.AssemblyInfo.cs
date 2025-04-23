@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestDuplicateListToDict")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7a89afced42e4ff569de378a7735d1a297eca4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23f81ed4610dcb830a020a93a08dcc65c7bfa319")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestDuplicateListToDict")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestDuplicateListToDict")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

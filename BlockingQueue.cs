@@ -14,7 +14,6 @@ class BlockingQueue
 
     public string Dequeue()
     {
-        while (IsEmpty()) {}
 
         var item = _queue[0];
         _queue.RemoveAt(0);
